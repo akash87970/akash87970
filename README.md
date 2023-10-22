@@ -1,3 +1,4 @@
+![logo](https://github.com/akash87970/akash87970/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif"
